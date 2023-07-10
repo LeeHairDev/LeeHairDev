@@ -1,5 +1,5 @@
 
-## 🌐Socials
+Hi, I'm Hải
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/leehairdev.03) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/hải-lê-sỹ) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/https://www.youtube.com/channel/UCr-2mA0QmCB5h3lcGqPtX1A) 
 
 # 💻Tech Stack
@@ -9,11 +9,9 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=LeeHairDev&theme=radical&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=LeeHairDev&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-### ✍️Random Dev Quote
+### ✍️Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=LeeHairDev&icon=0&color=6)](https://visitcount.itsvg.in)
